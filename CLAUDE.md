@@ -25,4 +25,6 @@ The student starts the learning process by running `/learn <topic>`. This trigge
 | `learning-method.md` | Full teaching methodology — phases, rules, and conventions |
 | `evaluation-method.md` | How to conduct evaluations using plan mode and AskUserQuestion |
 | `project-claude-template.md` | CLAUDE.md template to copy into each project folder |
+| `learner-profile-spec.md` | Structure and rules for the learner profile |
 | `learning-plan.md` | Learning objectives and topic plan *(created in Phase 1)* |
+| `learner-profile.md` | Student's demonstrated strengths, gaps, and misconceptions *(created in Phase 1, updated continuously)* |
