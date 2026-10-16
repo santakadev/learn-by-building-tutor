@@ -133,7 +133,7 @@ When ending a study, provide a brief summary of what was covered and suggest nex
 
 ```
 learning-home/                          (root — one per learner)
-  .claude/commands/learn.md             (slash command to start a new study)
+  .claude/skills/learn/SKILL.md         (/learn skill to start a new study)
   CLAUDE.md                             (root teacher instructions)
   learning-method.md                    (this file)
   evaluation-method.md

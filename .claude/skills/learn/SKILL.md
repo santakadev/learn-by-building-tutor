@@ -1,3 +1,10 @@
+---
+name: learn
+description: Start a new study in this learning home. Run from the learning home root with the topic as the argument.
+argument-hint: <topic>
+disable-model-invocation: true
+---
+
 The student wants to start a new study. Their learning topic is:
 
 > $ARGUMENTS
