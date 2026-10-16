@@ -87,8 +87,8 @@ After all questions are done:
 1. Write the evaluation summary to the plan file. Include:
    - Demonstrated strengths.
    - Identified gaps or misconceptions.
-   - **For initial assessment:** how the results should shape the learning plan (difficulty level, topics to emphasize or skip).
-   - **For post-project assessment:** whether each of the project's learning goals (from `PROJECT.md`) was met, and any topics that need reinforcement in the next project.
+   - **For initial assessment:** how the results should shape the learning plan (difficulty level, topics to emphasize or skip). The findings will be written into the new study's `study-progress.md` (and any cross-cutting traits into the root `learner-profile.md`) once Phase 1 continues.
+   - **For post-project assessment:** whether each of the project's learning goals (from `PROJECT.md`) was met, and any topics that need reinforcement in the next project. The findings will update the active study's `study-progress.md`.
 2. Call `ExitPlanMode` to present the evaluation results to the student.
 
 ---
